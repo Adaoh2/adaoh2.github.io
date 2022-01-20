@@ -1,0 +1,6 @@
+[submodule "numeroJMP"]
+	path = numeroJMP
+	url = https://github.com/Adaoh2/numeroJMP/
+[submodule "mdp.poubelle.netV3"]
+	path = mdp.poubelle.netV3
+	url = https://github.com/Adaoh2/mdp.poubelle.netV3
