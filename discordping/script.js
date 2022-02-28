@@ -10,7 +10,7 @@ function task(i) {
   setTimeout(function() {
       playSound();
       // delai de 10 a 100 secondes
-  }, Math.floor((Math.random() * 100000) + 10000) * i);
+  }, Math.floor((Math.random() * 199999) + 10000) * i);
 }
 
 
