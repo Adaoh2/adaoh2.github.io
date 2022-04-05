@@ -12,6 +12,16 @@ body {
 	text-align: center
 }
 
+#logo {
+    content: url("./assets/Discord-Logo-White.png");
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+    width: 15%;
+}
+
 .content {
 	background: #202325;
 	color: #fff;
@@ -161,6 +171,15 @@ iframe {
 		color: rgb(0, 0, 0);
   	}
 	
+    #logo {
+        content: url("./assets/Discord-Logo-Black.png");
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        transition: 0.3s;
+        -webkit-transition: 0.3s;
+        width: 15%;
+    }
 	.content {
 		background-color: rgb(255, 255, 255);
 		color: rgb(0, 0, 0);
